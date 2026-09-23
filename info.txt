@@ -1,0 +1,6 @@
+# Contreras Lizarraga Brayan Jaziel
+## 10/09/26
+## Introduccion al Github
+### Que es Pull Request
+** Herramienta clave en el desarrollo colaborativo de software que permite a 
+los desarrolladores proponer cambios en un proyecto y solicitar que estos sean revisados e integrados en la rama principal. **
