@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Estructura semántica en HTML5 </title>
+	</head>
+
+	<body>
+
+    <header>
+        <h1>Noticia Tecnologica</h1>
+        <p>Pagina que muestra noticias relacionada en la tecnologia.</p>
+    </header>
+
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Noticias</a>
+        <a href="#">Actualidad</a>
+        <a href="#">Enlaces</a>
+    </nav>
+
+    <main>
+
+        <section>
+            <h2>Últimas noticias</h2>
+            <article>
+                <h3>¿Como ha influido la inteligencia artificial en la actualidad?</h3>
+                <img src="https://imgs.search.brave.com/gMnaK7sFvmhjuZ5QdzZ0tkmEr5J2FS-szsuMXOI2PX4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20veTZ4UkUv/TUFIQjZGeTZ4UkUv/MS90bC9jYW52YS1p/bnRlbGlnZW5jaWEt/YXJ0aWZpY2lhbC4t/bWFuby1yb2IlQzMl/QjN0aWNhLXVzYW5k/by11bi1wb3J0JUMz/JUExdGlsLXNvYnJl/LXVuYS1tZXNhLWVu/LW5lby4tTUFIQjZG/eTZ4UkUuanBn" alt="Inteligencia Artificial">
+                <p>La inteligencia artificial continúa transformando industrias enteras a un ritmo acelerado.</p>
+                <a href="#">Leer más</a>
+            </article>
+
+            
+            <article>
+                <h3>Nuevos estándares en el desarrollo Web</h3>
+                <img src="https://imgs.search.brave.com/ga4AKMAfTKHgARMVIVdGzoXWDp3kX-oA3eDXJH044es/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3VyYXRpY2EuZXMv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTAvZXN0YW5kYXJl/cy13ZWIuanBn" alt="Desarrollo Web">
+                <p>HTML5 y las herramientas modernas de diseño siguen evolucionando para ofrecer experiencias de usuario más rápidas, accesibles y adaptadas a todo tipo de dispositivos móviles y pantallas inteligentes.</p>
+                <a href="#">Leer más</a>
+            </article>
+
+            <article>
+                <h3>El auge de la ciberseguridad personal</h3>
+                <img src="https://imgs.search.brave.com/_9ReSihX6xPMUgpWN3BZc7RZEzZmV0qsFVWBbDMBdKg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMjAy/MDE1NzY2NC9lcy9m/b3RvL3JlZC1kZS1j/aWJlcnNlZ3VyaWRh/ZC1jb25jZXB0by1k/ZS1jaWJlcnNlZ3Vy/aWRhZC10ZWNub2xv/ZyVDMyVBRGEtZGUt/c2VndXJpZGFkLWRl/LXJlZC1nbG9iYWwt/bGEuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPU9TWEVjcHZi/eHZ0MzNIblV5MDJa/Zm9EcDUwQ1BoaHB6/UVpyZzEyNW5BSVU9" alt="Ciberseguridad">
+                <p>Proteger nuestros datos en línea ya no es exclusivo de grandes corporaciones. Con el incremento de amenazas digitales, cada usuario debe adoptar buenas prácticas de autenticación y privacidad.</p>
+                <a href="#">Leer más</a>
+            </article>
+
+        </section>
+
+	<hr>
+
+        <section>
+            <h2>Sobre nosotros</h2>
+            <p>Somos un equipo apasionado por la tecnología y la difusión de información veraz y actualizada para nuestra comunidad de lectores en todo el mundo.</p>
+        </section>
+
+    </main>
+
+    <aside>
+        <h3>Noticias populares</h3>
+        <ul>
+            <li><a href="#">Top 10 gadgets imperdibles del año</a></li>
+            <li><a href="#">Cómo aprender a programar desde cero</a></li>
+            <li><a href="#">El futuro de los vehículos autónomos</a></li>
+        </ul>
+
+        <h3>Enlaces recomendados</h3>
+        <ul>
+            <li><a href="#">W3C Web Standards</a></li>
+            <li><a href="#">MDN Web Docs</a></li>
+        </ul>
+    </aside>
+
+	<hr>
+
+    <footer>
+        <p>Contreras Lizarraga Brayan Jaziel.</p>
+	<p>Desarrollo Web.</p>
+        <p>Prof. Erick Ivan Sanchez Valdez</p>
+	<p>24/09/26</p>
+    </footer>
+
+</body>
+</html>
